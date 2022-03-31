@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Julio Hernando Vargas-riano
+- 👋 Hi, I’m Julio Hernando Vargas-Riaño
 - 👀 I’m interested in Electronics, Robotics, Bioengineering. 
 - 🌱 I’m currently Phd Student.
 - 📫 My profile is in Researchgate [link]()
